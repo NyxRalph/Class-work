@@ -1,0 +1,14 @@
+img{
+    max-width: 350px;
+}
+.containers{
+    display: flex;
+}
+p{
+    width: 600px;
+}
+body{
+    max-width: 1400px;
+    height: 100vh;
+
+}
